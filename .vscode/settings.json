@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#0d1117",
+    "editorCursor.foreground": "#c4e3fd",
+    "editor.lineHighlightBackground": "#5e2c21",
+    "editor.selectionBackground": "#682618",
+  },
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "explorer.openEditors.visible": 0,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.guides.indentation": false,
+  "editor.fontFamily": "SF Mono",
+  "editor.fontWeight": "600",
+  "editor.fontSize": 24,
+  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontWeight": "800",
+  "terminal.integrated.fontSize": 24,
+  "editor.formatOnSave": false,
+}
